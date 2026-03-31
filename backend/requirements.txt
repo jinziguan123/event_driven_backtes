@@ -1,0 +1,6 @@
+pandas
+fastapi
+uvicorn
+pyarrow
+PyMySQL
+clickhouse-connect
